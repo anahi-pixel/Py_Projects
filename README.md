@@ -1,2 +1,3 @@
-# Py_Projects
-Some projects with python
+# Pong
+Simple pong game
+Based on tutorial by @TokyoEdTech
